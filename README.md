@@ -71,18 +71,18 @@ Me chamo Tarso Rondon Lira Freitas, tenho 17 anos e sou natural de Rondônia. Es
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=TarsoRondon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=TarsoRondon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarsoRondo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  align="left" 
+  alt="Linguagens mais usadas" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarsoRondon&theme=tokyonight&layout=compact&langs_count=8"
+/>
 
 </p>
