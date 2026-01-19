@@ -11,7 +11,7 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-Olá! Me chamo **Tarso Rondon Lira Freitas**, tenho **17 anos**, sou natural de **Rondônia** e atualmente curso o **3° ano do Ensino Médio** no **IFRO – Campus Porto Velho Calama**, integrado ao **curso técnico em Informática**.
+Olá! Me chamo **Tarso Rondon Lira Freitas**, tenho **17 anos**, sou natural de **Porto Velho - RO** e atualmente curso o **3° ano do Ensino Médio** no **IFRO – Campus Porto Velho Calama**, integrado ao **curso técnico em Informática**.
 
 Sou apaixonado por tecnologia e programação. Gosto de aprender na prática, desenvolvendo **mini jogos**, **sites** e **sistemas web**.  
 Atualmente, estou desenvolvendo um **Sistema de Inscrições para os Jogos Internos (JICS)** do **IFRO – Campus Porto Velho Calama**, aplicando conhecimentos reais de desenvolvimento.
