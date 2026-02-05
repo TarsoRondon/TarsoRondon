@@ -20,7 +20,7 @@ Atualmente, estou desenvolvendo um **Sistema de Inscrições para os Jogos Inter
 
 ## 🚀 Objetivo
 
-Evoluir como desenvolvedor, adquirindo experiência prática em **programação**, **desenvolvimento web** e **sistemas**, buscando futuramente uma oportunidade de **estágio na área de TI**.
+Evoluir como desenvolvedor, adquirindo experiência prática em **programação**, **desenvolvimento web** e **sistemas**, buscando futuramente uma oportunidade de **empre e meu próprio desenvolvimento  na área de TI**.
 
 ---
 
